@@ -1,6 +1,6 @@
 <h1> Welcome! 👋 </h1>
 
-<h2> I am a software engineering student at General Assembly currently working with HTML, CSS and Javascript. Eventually going to learn React, Node and Python. I'm constantly learning new technologies and love doing so. I also enjoy building PC's for gaming and creating music 🎵 . Eventually I would ❤️ to find myself in a software engineering career where I can apply my passion into my work. Feel free to connect with me on any platform I'm on! 😁 </h2>
+<p> I am a software engineering student at General Assembly currently working with HTML, CSS and Javascript. Eventually going to learn React, Node and Python. I'm constantly learning new technologies and love doing so. I also enjoy building PC's for gaming and creating music 🎵 . Eventually I would ❤️ to find myself in a software engineering career where I can apply my passion into my work. Feel free to connect with me on any platform I'm on! 😁 </p>
 
 ## Technical Skills 💻
 
