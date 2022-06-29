@@ -2,6 +2,10 @@
 
 <p> I am a software engineering student at General Assembly currently working with HTML, CSS and Javascript. Eventually going to learn React, Node and Python. I'm constantly learning new technologies and love doing so. I also enjoy building PC's for gaming and creating music 🎵 . Eventually I would ❤️ to find myself in a software engineering career where I can apply my passion into my work. Feel free to connect with me on any platform I'm on! 😁 </p>
 
+## Connect with Me! 🔗
+
+<a href=”https://www.linkedin.com/in/noahsb96/"><img align=”left” src=”https://raw.githubusercontent.com/noahsb96/iconimages/main/images/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
 ## Technical Skills 💻
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
