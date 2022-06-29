@@ -8,6 +8,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+## Stats 📊
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=noahsb96)](https://github.com/noahsb96)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahsb96&layout=compact)](https://github.com/noahsb96)
+
 
 <!--
 **noahsb96/noahsb96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
