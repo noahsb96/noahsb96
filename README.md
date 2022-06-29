@@ -4,7 +4,9 @@
 
 ## Connect with Me! 🔗
 
-<a href=”https://www.linkedin.com/in/noahsb96/"><img align=”left” src=”https://raw.githubusercontent.com/noahsb96/iconimages/main/images/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href="https://www.linkedin.com/in/noahsb96/">
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
 
 ## Technical Skills 💻
 
