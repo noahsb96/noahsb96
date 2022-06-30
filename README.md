@@ -3,7 +3,7 @@
 
 <p align="center"> I am a software engineering student and a musician 🎵. For the two and a half decades I've been alive, I've put my ❤️ and soul into my two passions. Music and technology 💻. Whether it be playing the drums across the US or learning HTML, CSS and Javascript, I've taken valuable skills from both. The ability find creative solutions to difficult problems, flexibility and time management and working with a team. Now I would like to harness that experience to use toward my passion and turn it into my career. I'm dedicated and motivated and whether it be playing drums 🥁 in front of hundreds or creating a webpage for thousands I know that I can deliver the best product possible 😁. </p>
 
-## Connect with Me! 🔗
+<h2>Connect with Me! 🔗</h2>
 
 <a href="https://www.linkedin.com/in/noahsb96/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
