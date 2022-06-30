@@ -1,4 +1,4 @@
-<h1> Welcome! <img src="https://github.com/nixin72/nixin72/blob/0409e61b2e776bbffd86e4be4f94c9844ef85379/wave.gif"/> </h1>
+<h1> Welcome! <img height="50px" src="https://github.com/nixin72/nixin72/blob/0409e61b2e776bbffd86e4be4f94c9844ef85379/wave.gif"/> </h1>
    
 
 <p> I am a software engineering student and a musician 🎵. For the two and a half decades I've been alive, I've put my ❤️ and soul into my two passions. Music and technology 💻. Whether it be playing the drums across the US or learning HTML, CSS and Javascript, I've taken valuable skills from both. The ability find creative solutions to difficult problems, flexibility and time management and working with a team. Now I would like to harness that experience to use toward my passion and turn it into my career. I'm dedicated and motivated and whether it be playing drums 🥁 in front of hundreds or creating a webpage for thousands I know that I can deliver the best product possible 😁. </p>
