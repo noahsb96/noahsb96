@@ -19,19 +19,19 @@
 
 <h2 align="center">Learning 👨🏻‍🎓</h2>
 
-      <a href="">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-      <a href="">![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-      <a href="">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-      <a href="">![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-      <a href="">![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-      <a href="">![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-      <a href="">![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+     ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+     ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+     ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+     ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+     ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+     ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <h2 align="center">Stats 📊</h2>
 
-      <a href="">[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=noahsb96)](https://github.com/noahsb96)
+    [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=noahsb96)](https://github.com/noahsb96)
 
-      <a href="">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahsb96&layout=compact)](https://github.com/noahsb96)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahsb96&layout=compact)](https://github.com/noahsb96)
    </div>
 
 <!--
