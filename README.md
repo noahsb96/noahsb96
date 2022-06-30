@@ -3,19 +3,19 @@
 
 <p align="center"> I am a software engineering student and a musician 🎵. For the two and a half decades I've been alive, I've put my ❤️ and soul into my two passions. Music and technology 💻. Whether it be playing the drums across the US or learning HTML, CSS and Javascript, I've taken valuable skills from both. The ability find creative solutions to difficult problems, flexibility and time management and working with a team. Now I would like to harness that experience to use toward my passion and turn it into my career. I'm dedicated and motivated and whether it be playing drums 🥁 in front of hundreds or creating a webpage for thousands I know that I can deliver the best product possible 😁. </p>
 
-<h2>Connect with Me! 🔗</h2>
+<h2 align="center">Connect with Me! 🔗</h2>
 
 <a href="https://www.linkedin.com/in/noahsb96/">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+    <img align="center" height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
 
-<h2>Technical Skills 💻</h2>
+<h2 align="center">Technical Skills 💻</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## Learning 👨🏻‍🎓
+<h2 align="center">Learning 👨🏻‍🎓</h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -25,7 +25,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Stats 📊
+<h2 align="center">Stats 📊</h2>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=noahsb96)](https://github.com/noahsb96)
 
