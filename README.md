@@ -1,5 +1,3 @@
-<align="center">
-
 <h1> Welcome! <img height="40px" src="https://github.com/nixin72/nixin72/blob/0409e61b2e776bbffd86e4be4f94c9844ef85379/wave.gif"/> </h1>
    
 
