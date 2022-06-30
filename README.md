@@ -1,6 +1,6 @@
 <h1> Welcome! 👋 </h1>
 
-<p> I am a software engineering student at General Assembly currently working with HTML, CSS and Javascript. Eventually going to learn React, Node and Python. I'm constantly learning new technologies and love doing so. I also enjoy building PC's for gaming and creating music 🎵 . Eventually I would ❤️ to find myself in a software engineering career where I can apply my passion into my work. Feel free to connect with me on any platform I'm on! 😁 </p>
+<p> I am a software engineering student and a musician 🎵. For the two and a half decades I've been alive, I've put my ❤️ and soul into my two passions. Music and technology 💻. Whether it be playing the drums across the US or learning HTML, CSS and Javascript, I've taken valuable skills from both. The ability find creative solutions to difficult problems, flexibility and time management and working with a team. Now I would like to harness that experience to use toward my passion and turn it into my career. I'm dedicated and motivated and whether it be playing drums 🥁 in front of hundreds or creating a webpage for thousands I know that I can deliver the best product possible 😁. </p>
 
 ## Connect with Me! 🔗
 
@@ -13,6 +13,16 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+## Learning 👨🏻‍🎓
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Stats 📊
 
