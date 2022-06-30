@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome! <img height="40px" src="https://github.com/nixin72/nixin72/blob/0409e61b2e776bbffd86e4be4f94c9844ef85379/wave.gif"/> </h1>
    
 
-<p> I am a software engineering student and a musician 🎵. For the two and a half decades I've been alive, I've put my ❤️ and soul into my two passions. Music and technology 💻. Whether it be playing the drums across the US or learning HTML, CSS and Javascript, I've taken valuable skills from both. The ability find creative solutions to difficult problems, flexibility and time management and working with a team. Now I would like to harness that experience to use toward my passion and turn it into my career. I'm dedicated and motivated and whether it be playing drums 🥁 in front of hundreds or creating a webpage for thousands I know that I can deliver the best product possible 😁. </p>
+<p align="center"> I am a software engineering student and a musician 🎵. For the two and a half decades I've been alive, I've put my ❤️ and soul into my two passions. Music and technology 💻. Whether it be playing the drums across the US or learning HTML, CSS and Javascript, I've taken valuable skills from both. The ability find creative solutions to difficult problems, flexibility and time management and working with a team. Now I would like to harness that experience to use toward my passion and turn it into my career. I'm dedicated and motivated and whether it be playing drums 🥁 in front of hundreds or creating a webpage for thousands I know that I can deliver the best product possible 😁. </p>
 
 ## Connect with Me! 🔗
 
@@ -9,7 +9,7 @@
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
 
-## Technical Skills 💻
+<h2>Technical Skills 💻</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
