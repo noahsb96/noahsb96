@@ -5,36 +5,41 @@
 
 <h2 align="center">Connect with Me! 🔗</h2>
 
-<a href="https://www.linkedin.com/in/noahsb96/">
-    <img align="center" height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
-</a>
+   <a href="https://www.linkedin.com/in/noahsb96/">
+      <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+   </a>
 
 <h2 align="center">Technical Skills 💻</h2>
 
-<div align="center">
+   <div align="center">
 
-  <a href="">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  <a href="">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  <a href="">![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   <a href="">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   <a href="">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+   <a href="">![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    
-</div>
+   </div>
 
 <h2 align="center">Learning 👨🏻‍🎓</h2>
+     
+   <div align="center">
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+      <a href="">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+      <a href="">![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+      <a href="">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+      <a href="">![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+      <a href="">![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+      <a href="">![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+      <a href="">![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+   </div>
 
 <h2 align="center">Stats 📊</h2>
+         
+   <div align="center">
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=noahsb96)](https://github.com/noahsb96)
+      <a href="">[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=noahsb96)](https://github.com/noahsb96)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahsb96&layout=compact)](https://github.com/noahsb96)
-
+      <a href="">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahsb96&layout=compact)](https://github.com/noahsb96)
+   </div>
 
 <!--
 **noahsb96/noahsb96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
