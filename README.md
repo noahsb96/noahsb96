@@ -37,7 +37,7 @@
 
 <div align="center">
 <a href="https://github.com/noahsb96/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=noahsb96" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=noahsb96=tokyonight" />
 </a>
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noahsb96&theme=tokyonight" />
