@@ -37,10 +37,13 @@
 
 <div align="center">
 <a href="https://github.com/noahsb96/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=noahsb96=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=noahsb96&theme=tokyonight" />
 </a>
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noahsb96&theme=tokyonight" />
+</a>
+<a href="https://git.io/top-langs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahsb96" />
 </a>
 </div>
 
