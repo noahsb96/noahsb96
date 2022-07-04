@@ -30,9 +30,8 @@
 
 <h2 align="center">Stats 📊</h2>
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=noahsb96)](https://github.com/noahsb96)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahsb96&count_private=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahsb96&layout=compact)](https://github.com/noahsb96)
 
 
 <!--
