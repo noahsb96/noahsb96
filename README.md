@@ -32,8 +32,7 @@
 
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noahsb96&count_private=true&theme=tokyonight](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahsb96&count_private=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahsb96&count_private=true&theme=tokyonight)](https://github.com/noahsb96/github-readme-stats) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahsb96&count_private=true&theme=tokyonight) -->
 
 <div align="center">
 <a href="https://github.com/noahsb96/github-readme-stats">
@@ -42,10 +41,6 @@
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noahsb96&count_private=true&theme=tokyonight" />
 </a>
-<a href="https://git.io/top-langs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahsb96&count_private=true&theme=tokyonight" />
-</a>
-</div>
 
 
 
