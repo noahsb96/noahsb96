@@ -31,19 +31,19 @@
 <h2 align="center">Stats 📊</h2>
 
 <!--
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noahsb96&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noahsb96&count_private=true&theme=tokyonight](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahsb96&count_private=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahsb96&count_private=true&theme=tokyonight)](https://github.com/noahsb96/github-readme-stats) -->
 
 <div align="center">
 <a href="https://github.com/noahsb96/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=noahsb96&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=noahsb96&count_private=true&theme=tokyonight" />
 </a>
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noahsb96&theme=tokyonight" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noahsb96&count_private=true&theme=tokyonight" />
 </a>
 <a href="https://git.io/top-langs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahsb96" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahsb96&count_private=true&theme=tokyonight" />
 </a>
 </div>
 
