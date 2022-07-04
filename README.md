@@ -31,6 +31,7 @@
 <h2 align="center">Stats 📊</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahsb96&count_private=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahsb96&count_private=true&theme=tokyonight)](https://github.com/noahsb96/github-readme-stats)
 
 
 
