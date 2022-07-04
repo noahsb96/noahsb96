@@ -30,7 +30,7 @@
 
 <h2 align="center">Stats 📊</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahsb96&count_private=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahsb96&count_private=true&theme=tokyonight)
 
 
 
