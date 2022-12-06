@@ -45,7 +45,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noahsb96&count_private=true&theme=tokyonight" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=noahsb96">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahsb96&count_private=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahsb96&layout=compact&count_private=true&theme=tokyonight" />
 </a>
 
 
