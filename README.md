@@ -31,8 +31,6 @@
 
 </p>
 
-<h2 align="center">Learning 👨🏻‍🎓</h2>
-
 <h2 align="center">Stats 📊</h2>
 
 <!--
