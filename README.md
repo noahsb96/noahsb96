@@ -44,9 +44,7 @@
 <a href="https://github.com/noahsb96/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=noahsb96&count_private=true&theme=tokyonight" />
 </a>
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noahsb96&count_private=true&theme=tokyonight" />
-</a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=noahsb96&theme=tokyonight" alt="GitHub Streak" /></a>
 
 
 
