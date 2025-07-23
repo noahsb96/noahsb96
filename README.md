@@ -41,7 +41,7 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=noahsb96">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahsb96&layout=compact&count_private=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/noahsb96/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=noahsb96">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=noahsb96&show_icons=true&theme=tokyonight" />
 </a>
 
